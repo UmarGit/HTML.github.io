@@ -8,4 +8,5 @@ HTML basic page
 + - Github: https://github.com/UmarGit
 
 
-create web template by mamadlone
+# CONTRIBUTORS
++ - mamadlone (styling of our web page !)  
