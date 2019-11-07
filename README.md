@@ -1,5 +1,6 @@
 # HTML-basics
-HTML basic page
+HTML stylised page !
+😄 😆 😊 😃 ☺️ 😏 😍 😘 😚 😳 😌 😆 😁 😉 😜 😝 😀 😗 😙 😛
 
 ### Umar Ahmed
 + - Photo: https://avatars3.githubusercontent.com/u/39865635?s=460&v=4
@@ -8,5 +9,5 @@ HTML basic page
 + - Github: https://github.com/UmarGit
 
 
-# CONTRIBUTORS
-+ - mamadlone (styling of our web page !)  
+## CONTRIBUTORS
++ - mamadlone (styling of our web page !) 😍 
